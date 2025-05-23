@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS and supabase.
 - 📫 Reach me on https://www.linkedin.com/in/akshat-srivastava-814505216/ 
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: i actually don't hate writing code.
+- ⚡ Ps : i hate dsa will continue to do so.
 
 <!---
 rpmakki03/rpmakki03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
