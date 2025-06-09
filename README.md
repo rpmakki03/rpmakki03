@@ -1,6 +1,7 @@
 - 👋 Hi, I’m akshat.
-- 👀 I’m interested in making web applications.
-- 🌱 I’m currently learning NextJS and supabase.
+- 🧑‍🎓 I'm 3rd year undergrad.
+- 👀 I’m interested in making websites(both frontend and backend)
+- 🌱 I’m currently learning NextJS and supabase and web3.
 - 📫 Reach me on https://www.linkedin.com/in/akshat-srivastava-814505216/ 
 - 😄 Pronouns: he/him.
 - ⚡ Ps : i hate dsa will continue to do so.
