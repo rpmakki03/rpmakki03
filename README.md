@@ -1,4 +1,4 @@
-- 👋 Hi, I’m akshat.
+- 👋 Hi, I’m rpmakki.
 - 🧑‍🎓 I'm 3rd year undergrad.
 - 👀 I’m interested in making websites(both frontend and backend)
 - 🌱 I’m currently learning NextJS and supabase and web3.
