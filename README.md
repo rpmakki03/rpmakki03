@@ -12,37 +12,37 @@
 - 💻 Experienced in **Web2 & Web3 development** (React, Next.js, Node.js, Solidity)
 - 🛠️ Actively learning **Smart Contract Security & Exploit PoCs**
 - 🧠 Solving **DSA problems (LeetCode, Codeforces)** for placement prep
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 Reach me at: **[rpmakki03@gmail.com](mailto:rpmakki03@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 ### 🚀 Languages
-`Java` | `C++` | `JavaScript` | `TypeScript` | `Solidity` | `SQL`
+`Java`  | `JavaScript` | `TypeScript` | `Solidity` | `SQL`
 
 ### 🌐 Web Development
 `React.js` | `Next.js` | `Node.js` | `Express.js` | `Supabase` | `ShadCN UI`
 
 ### 🔗 Blockchain / Web3
-`Solidity` | `Hardhat` | `Foundry` | `Ethers.js` | `Web3.js`
+`Solidity` | `Foundry` | `Ethers.js` | `Web3.js`
 
 ### ⚙️ Tools & Platforms
-`Git` | `GitHub` | `Docker` | `Linux` | `Postman`
+`Git` | `GitHub` | `Linux` | `Postman`
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsrivastava&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsrivastava&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rpmakki03&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpmakki03&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-link)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/rpmakki)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](https://www.linkedin.com/in/akshat-srivastava-814505216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
