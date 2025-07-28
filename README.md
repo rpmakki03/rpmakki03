@@ -39,6 +39,13 @@
 
 ---
 
+## 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rpmakki?theme=dark&font=Baloo%20Tamma%202&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/rpmakki)  
