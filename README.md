@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Akshat Srivastava
 
 🚀 **Web3 & Full-Stack Developer | Blockchain Security Enthusiast | Problem Solver**  
-
 💡 Passionate about building **decentralized applications**, exploring **Web3 security**, and solving challenging problems through code.  
 🎯 Currently working on **Web3 Security research, DApps, and Smart Contract Auditing** while also sharpening my **DSA & system design skills** for placements.
 
