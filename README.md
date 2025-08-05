@@ -12,7 +12,7 @@
 - 🎓 **3rd Year CS Undergraduate** | Interested in **Web3, Blockchain Security, and Full-Stack Development**
 - 💻 Experienced in **Web2 & Web3 development** (React, Next.js, Node.js, Solidity)
 - 🛠️ Actively learning **Smart Contract Security & Exploit PoCs**
-- 🧠 Solving **DSA problems (LeetCode, Codeforces)** for placement prep
+- 🧠 Solving **DSA problems LeetCode ** for placement prep
 - 📫 Reach me at: **[rpmakki03@gmail.com](mailto:rpmakki03@gmail.com)**
 
 ---
