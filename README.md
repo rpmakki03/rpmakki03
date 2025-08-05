@@ -10,9 +10,9 @@
 
 ## 🔥 About Me
 - 🎓 **3rd Year CS Undergraduate** | Interested in **Web3, Blockchain Security, and Full-Stack Development**
-- 💻 Experienced in **Web2 & Web3 development** (React, Next.js, Node.js, Solidity)
+- 💻 Experienced in **Web2 & Web3 development** (React, Next.js, Node.js, Solidity, Foundry)
 - 🛠️ Actively learning **Smart Contract Security & Exploit PoCs**
-- 🧠 Solving **DSA problems LeetCode ** for placement prep
+- 🧠 Solving **DSA problems on LeetCode ** for placement prep
 - 📫 Reach me at: **[rpmakki03@gmail.com](mailto:rpmakki03@gmail.com)**
 
 ---
@@ -25,18 +25,14 @@
 `React.js` | `Next.js` | `Node.js` | `Express.js` | `Supabase` | `ShadCN UI`
 
 ### 🔗 Blockchain / Web3
-`Solidity` | `Foundry` | `Ethers.js` | `Web3.js`
+`Solidity` | `Foundry` | 
 
 ### ⚙️ Tools & Platforms
 `Git` | `GitHub` | `Linux` | `Postman`
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpmakki03&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpmakki03&layout=compact&theme=radical" height="150"/>
-</p>
+
 
 ---
 
