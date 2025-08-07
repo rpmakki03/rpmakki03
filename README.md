@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Akshat Srivastava
 
-🚀 **Web3 & Full-Stack Developer | Blockchain Security Enthusiast | Problem Solver | Open Source Contributor**  
+🚀 **Web3 & Full-Stack Developer | Open Source Contributor| Blockchain Security Enthusiast | Problem Solver **  
 
 💡 Passionate about building **decentralized applications**, exploring **Web3 security**, and solving challenging problems through code.  
 
