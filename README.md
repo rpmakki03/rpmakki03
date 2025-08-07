@@ -25,24 +25,23 @@
 `React.js` | `Next.js` | `Node.js` | `Express.js` | `Supabase` | `ShadCN UI`
 
 ### 🔗 Blockchain / Web3
-`Solidity` | `Foundry` | 
+`Solidity` | `Foundry` | `ZkSync`
 
 ### ⚙️ Tools & Platforms
 `Git` | `GitHub` | `Linux` | `Postman`
 
 ---
 
+## 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rpmakki?theme=dark&font=Baloo%20Tamma%202&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rpmakki03&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpmakki03&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-## 🧩 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rpmakki?theme=dark&font=Baloo%20Tamma%202&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
