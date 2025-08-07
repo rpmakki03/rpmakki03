@@ -1,18 +1,18 @@
 # Hi there 👋, I'm Akshat Srivastava
 
-🚀 **Web3 & Full-Stack Developer | Open Source Contributor| Blockchain Security Enthusiast | Problem Solver **  
+🚀 **Web3 & Full-Stack Developer | Open Source Contributor| Blockchain Security Enthusiast  **  
 
 💡 Passionate about building **decentralized applications**, exploring **Web3 security**, and solving challenging problems through code.  
 
-🎯 Currently working on **Web3 Security research, DApps, and Smart Contract Auditing** while also sharpening my **DSA & system design skills** for placements.
+🎯 Currently working on **Web3 Security research, DApps, and Smart Contract Auditing** while also sharpening my **DSA & system design skills**.
 
 ---
 
 ## 🔥 About Me
 - 🎓 **3rd Year CS Undergraduate** | Interested in **Web3, Blockchain Security, and Full-Stack Development**
 - 💻 Experienced in **Web2 & Web3 development** (React, Next.js, Node.js, Solidity, Foundry)
-- 🛠️ Actively learning **Smart Contract Security & Exploit PoCs**
-- 🧠 Solving **DSA problems on LeetCode ** for placement prep
+- 🛠️ Actively learning **Smart Contract Security & Frontend Developement**
+- 🧠 Solving **DSA problems on LeetCode ** 
 - 📫 Reach me at: **[rpmakki03@gmail.com](mailto:rpmakki03@gmail.com)**
 
 ---
