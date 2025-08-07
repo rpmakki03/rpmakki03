@@ -10,7 +10,7 @@
 
 ## 🔥 About Me
 - 🎓 **3rd Year CS Undergraduate** | Interested in **Web3, Blockchain Security, and Full-Stack Development**
-- 💻 Experienced in **Web2 & Web3 development** (React, Next.js, Node.js, Solidity, Foundry)
+- 💻 Experienced in **Web2 & Web3 development** (React/Next.js, Expres, Supabase, Solidity, Foundry)
 - 🛠️ Actively learning **Smart Contract Security & Frontend Developement**
 - 🧠 Solving **DSA problems on LeetCode ** 
 - 📫 Reach me at: **[rpmakki03@gmail.com](mailto:rpmakki03@gmail.com)**
