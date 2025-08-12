@@ -28,7 +28,7 @@
 `Solidity` | `Foundry` | `ZkSync`
 
 ### ⚙️ Tools & Platforms
-`Git` | `GitHub` | `Linux` | `Postman` | `Framer` | `Gsap`
+`Git` | `GitHub` | `Linux` 
 
 ---
 
